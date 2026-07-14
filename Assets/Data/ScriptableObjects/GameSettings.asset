@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 119d51e54a1182b47a50ab6c8fc308ec, type: 3}
+  m_Name: GameSettings
+  m_EditorClassIdentifier: Assembly-CSharp::SweetSweeps.Data.GameSettingsSO
+  roundDuration: 30
+  stepDurationSeconds: 1
+  roundEndOffset: 2
+  stepPrebufferCount: 3
+  stepStreamStallTimeout: 1.5
+  countdownFrom: 3
+  countdownStepSeconds: 0.6
+  availableWorldIds:
+  - World_01
+  - World_02
+  pitDamage: 100
+  useSimulation: 0
+  simulationBalance: 5000
+  groundLayer:
+    serializedVersion: 2
+    m_Bits: 384
+  useEncryptedStorage: 1
