@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1d4e9f42f5b4394cbfd7d31a19665ba, type: 3}
+  m_Name: snd_walk_grass
+  m_EditorClassIdentifier: Assembly-CSharp::SweetSweeps.Data.SoundDefinition
+  clips:
+  - {fileID: 8300000, guid: 553e8b6c7b230e640b0b6fed7e849649, type: 3}
+  - {fileID: 8300000, guid: be6b38f845a25b843850a3723a098059, type: 3}
+  - {fileID: 8300000, guid: 90a7968979bce8546945a18d8ab63b7b, type: 3}
+  - {fileID: 8300000, guid: 3b0f6d938b5b1fc4597e3d727837ac7f, type: 3}
+  - {fileID: 8300000, guid: 0fd4cc442a0c8a1498d7bc26ac4a3c8b, type: 3}
+  loop: 0
+  volume: {x: 0.8326924, y: 0.8326924}
+  pitch: {x: 1, y: 1}
+  priority: 128
+  layers: []
