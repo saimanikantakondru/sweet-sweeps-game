@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9c45123f07e46f78a7df7b01c791e95, type: 3}
+  m_Name: HeavyCalamityData
+  m_EditorClassIdentifier: Assembly-CSharp::SweetSweeps.Data.HeavyCalamityDataSO
+  calamityId: heavy
+  visualProfile: {fileID: 11400000, guid: ae7466622f643504183ef8253e0f32b7, type: 2}
+  speedMultiplier: 0.7
+  accelerationMultiplier: 0.8
+  decelerationMultiplier: 0.8
+  jumpForceMultiplier: 0.85
+  lavaOverlayPrefab: {fileID: 466820992214848284, guid: 5af07608b27097c45b09064bc2f3431b, type: 3}
+  lavaTileCount: 70
+  minSpacing: 3

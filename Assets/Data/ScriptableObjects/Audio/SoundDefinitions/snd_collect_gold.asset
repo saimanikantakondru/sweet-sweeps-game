@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1d4e9f42f5b4394cbfd7d31a19665ba, type: 3}
+  m_Name: snd_collect_gold
+  m_EditorClassIdentifier: Assembly-CSharp::SweetSweeps.Data.SoundDefinition
+  clips:
+  - {fileID: 8300000, guid: 6d7ff1e8eeada4249998848cdc1de128, type: 3}
+  - {fileID: 8300000, guid: 1365e61f2c5a56f4fb3422e820d1c1cb, type: 3}
+  - {fileID: 8300000, guid: d50ea6bf2aa99734987b647d688309e8, type: 3}
+  - {fileID: 8300000, guid: a9eb10252be1f6740a469306a2783444, type: 3}
+  - {fileID: 8300000, guid: 1de72117150f85546af4fb2cbfa1a6b0, type: 3}
+  loop: 0
+  volume: {x: 0.89536434, y: 0.89536434}
+  pitch: {x: 1, y: 1}
+  priority: 128
+  layers: []
